@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "title": "It Ends with Us",
+      "type": "Book",
+      "genre": "Romance / Drama",
+      "year": "2016",
+      "image": "https://i.pinimg.com/736x/e1/20/8d/e1208d68fe9f9bee4c7936a242dcc9bd.jpg",
+      "review": "A raw and emotional story tackling love, trauma, and resilience. Very impactful, especially for young adults."
+    },
+    {
+        "id": 2,
+        "title": "It Starts with Us",
+        "type": "book",
+        "genre": "Romance / Drama",
+        "year": "2022",
+        "image": "https://i.pinimg.com/736x/cc/c5/92/ccc592a1f843d839d6907398de7c59aa.jpg",
+        "review": "A highly anticipated follow-up to It Ends with Us, this book shifts the focus to Atlas Corrigan and Lily Bloom, offering closure and healing after the events of the first book. It's a hopeful, emotional second-chance love story, balancing romance with themes of personal growth and recovery from past trauma. Fans loved finally seeing Lily get her happy ending!"
+    },
+    {
+      "id": 3,
+      "title": "Verity",
+      "type": "book",
+      "genre": "Psychological Thriller",
+      "year": 2018,
+      "image": "https://i.pinimg.com/736x/f2/01/9b/f2019b0c5f0dd9891d4d3a47a0c8a22f.jpg ",
+      "review": "Twisted, suspenseful, and totally unputdownable. Darker than Hoover’s usual style.."
+    },
+    {
+        "id": 4,
+        "title": "The Midnight Library",
+        "type": "book",
+        "genre": "Fantasy / Philosophy",
+        "year": 2020,
+        "image": "https://i.pinimg.com/736x/0f/15/42/0f1542a78641ed0c02877601fbf13a05.jpg",
+        "review": "Explores regrets and second chances. Uplifting and thought-provoking with a hopeful message."
+    },
+    {
+        "id": 5,
+        "title": "A Good Girl’s Guide to Murder",
+        "type": "book",
+        "genre": "Mystery / Thriller / Young Adult",
+        "year": 2019,
+        "image": "https://i.pinimg.com/736x/f1/31/c5/f131c545376e2d6ce9563e7e4bb8d63d.jpg",
+        "review": "High schooler Pip investigates a closed murder case for her school project. Everyone believes Sal Singh killed Andie Bell, but Pip isn’t convinced. As she digs deeper, she uncovers dark secrets and puts herself in danger."
+    },
+    {
+        "id": 6,
+        "title": "La La Land",
+        "type": "movie",
+        "genre": "Musical / Romance / Drama",
+        "year": 2016,
+        "image": "https://i.pinimg.com/736x/a3/fe/19/a3fe1953058d51294b8c061a9f76ead7.jpg",
+        "review": "A modern musical about love, dreams, and sacrifice. Gorgeous cinematography and music."
+    },
+    {
+        "id": 7,
+        "title": "A Quiet Place",
+        "type": "movie",
+        "genre": "Horror / Thriller",
+        "year": 2018,
+        "image": "https://i.pinimg.com/736x/d4/d7/39/d4d739ddce0213630326713de3c47627.jpg",
+        "review": "A tense, emotional survival horror with minimal dialogue and maximum suspense."
+    },
+    {
+        "id": 8,
+        "title": "Parasite",
+        "type": "movie",
+        "genre": "Fantasy, Fiction",
+        "year": 2023,
+        "image": "https://i.pinimg.com/736x/bc/e3/c2/bce3c2cbd502d88d137200ee7d928f09.jpg",
+        "review": "A gripping story that keeps you hooked till the end."
+    },
+    {
+        "id": 9,
+        "title": "Barbie",
+        "type": "movie",
+        "genre": "Fantasy / Comedy / Drama",
+        "year": 2023,
+        "image": "https://i.pinimg.com/736x/e8/92/9b/e8929bfe52f769365b0b988df0944bc0.jpg",
+        "review": "A mind-bending thriller about dreams within dreams. Complex and visually stunning."
+    },
+    {
+        "id": 10,
+        "title": "Inception",
+        "type": "movie",
+        "genre": "Sci-Fi / Thriller",
+        "year": 2010,
+        "image": "https://i.pinimg.com/736x/0b/e1/da/0be1dafba6a85a2b21dbb27102fd4d3b.jpg",
+        "review": "A gripping story that keeps you hooked till the end."
+    },
+    {
+        "id": 6,
+        "title": "Twenty-Five Twenty-One",
+        "type": "K-Drama",
+        "genre": "Romance / Drama",
+        "year": 2022,
+        "image": "https://i.pinimg.com/736x/17/ba/97/17ba97064fed20236152851e88c30e40.jpg",
+        "review": "Nostalgic 90s vibe, first love, and dreams. Beautiful but bittersweet story—grab tissues!"
+    },
+    {
+        "id": 7,
+        "title": "Sweet Home",
+        "type": "K-Drama",
+        "genre": "Horror / Thriller / Fantasy",
+        "year": 2020,
+        "image": "https://i.pinimg.com/736x/72/ce/5a/72ce5a0bc47d4bbdf9fb77f1c391af44.jpg",
+        "review": "A dark, gripping survival thriller with monsters and psychological drama. Creepy but compelling!"
+    },
+    {
+        "id": 8,
+        "title": "Crash Landing on You",
+        "type": "movie",
+        "genre": "Romance / Comedy / Drama",
+        "year": 2019,
+        "image": "https://i.pinimg.com/736x/b4/1f/5f/b41f5f061dd907f9122d3827f49ae467.jpg",
+        "review": "A South Korean heiress crash-lands in North Korea and meets an army officer. Iconic love story, lots of feels!"
+    },
+    {
+        "id": 9,
+        "title": "Vincenzo",
+        "type": "movie",
+        "genre": "Action / Crime / Comedy",
+        "year": 2021,
+        "image": "https://i.pinimg.com/736x/21/0c/0e/210c0e69730c1b1f0c1a883299bf441c.jpg",
+        "review": "A Mafia consigliere returns to Korea. Dark comedy with thrilling moments and a badass anti-hero."
+    },
+    {
+        "id": 6,
+        "title": "All of Us are Dead",
+        "type": "movie",
+        "genre": "Zombie / Horror / Thriller",
+        "year": 2022,
+        "image": "https://i.pinimg.com/736x/f5/ac/04/f5ac04df8f9a5d3386a4e1138ca5f314.jpg",
+        "review": "High school students trapped during a zombie outbreak. Intense, emotional, and full of survival drama!"
+    }
+  ]
+  
