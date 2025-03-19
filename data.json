@@ -56,7 +56,7 @@
       {
           "id": 7,
           "title": "Twisted Love",
-          "type": "book",
+          "type": "series",
           "genre": "Grumpy x Sunshine",
           "year": 2021,
           "image": "https://i.pinimg.com/736x/43/a1/3b/43a13b9e078141f06d7c305d415a313e.jpg",
@@ -65,7 +65,7 @@
       {
         "id": 8,
         "title": "Twisted Games",
-        "type": "book",
+        "type": "series",
         "genre": "Forbidden Love",
         "year": 2021,
         "image": "https://i.pinimg.com/736x/ba/a5/e9/baa5e9793873839cfbbf10b5130d335b.jpg",
@@ -74,7 +74,7 @@
       {
           "id": 9,
           "title": "Twisted Hate",
-          "type": "book",
+          "type": "series",
           "genre": "Enemies-to-Lovers",
           "year": 2022,
           "image": "https://i.pinimg.com/736x/f9/28/a5/f928a53759d568872ace6408983cf370.jpg",
@@ -83,7 +83,7 @@
       {
           "id": 10,
           "title": "Twisted Lies",
-          "type": "book",
+          "type": "series",
           "genre": "Billionaire Romance / Fake dating",
           "year": 2022,
           "image": "https://i.pinimg.com/736x/63/d4/b3/63d4b39b32a789d335f98fb46cafa55c.jpg",
