@@ -199,6 +199,51 @@
     },
     {
         "id": 23,
+        "title": "Wish",
+        "type": "disney",
+        "genre": "Fantasy / Musical",
+        "year": 2023,
+        "image": "https://i.pinimg.com/736x/ad/7c/85/ad7c85a1856a4d399d2fc64068a626b1.jpg",
+        "review": "Celebrates Disney’s 100th anniversary! A new magical kingdom, catchy songs, and a powerful wish story!"
+    },
+    {
+        "id": 24,
+        "title": "Elemental",
+        "type": "disney",
+        "genre": "Romance / Comedy",
+        "year": 2023,
+        "image": "https://i.pinimg.com/736x/c4/41/d9/c441d9d5154fc41f2306806721f68cc6.jpg",
+        "review": "Opposites attract! A love story between fire and water in a world of elements. Beautiful visuals and a sweet message."
+    },
+    {
+        "id": 25,
+        "title": "The Little Mermaid (Live-Action)",
+        "type": "disney",
+        "genre": "Fantasy / Musical / Romance",
+        "year": 2023,
+        "image": "https://i.pinimg.com/736x/58/8b/e3/588be37a5be889c1c7c2569a7997c68b.jpg",
+        "review": "Halle Bailey shines as Ariel! Beautiful underwater visuals and the classic Disney magic with a fresh take."
+    },
+    {
+        "id": 26,
+        "title": "Frozen II",
+        "type": "disney",
+        "genre": "Fantasy / Adventure",
+        "year": 2019,
+        "image": "https://i.pinimg.com/736x/8d/b2/0a/8db20a2a357704adb50c6baba3cef42a.jpg",
+        "review": "Visually stunning with deeper lore. Elsa's journey to find herself, with catchy songs like Into the Unknown."
+    },
+    {
+        "id": 27,
+        "title": "Raya and the Last Dragon",
+        "type": "disney",
+        "genre": "Fantasy / Adventure",
+        "year": 2021,
+        "image": "https://i.pinimg.com/736x/59/e7/ba/59e7ba9abc4756edf620537e0cf3e301.jpg",
+        "review": "Beautiful animation, Southeast Asian-inspired world, and a message about trust. Strong female lead!"
+    },
+    {
+        "id": 28,
         "title": "Twenty-Five Twenty-One",
         "type": "k-drama",
         "genre": "Romance / Drama",
@@ -207,7 +252,7 @@
         "review": "Nostalgic 90s vibe, first love, and dreams. Beautiful but bittersweet story—grab tissues!"
     },
     {
-        "id": 24,
+        "id": 29,
         "title": "Sweet Home",
         "type": "k-drama",
         "genre": "Horror / Thriller / Fantasy",
@@ -216,7 +261,7 @@
         "review": "A dark, gripping survival thriller with monsters and psychological drama. Creepy but compelling!"
     },
     {
-        "id": 25,
+        "id": 30,
         "title": "Crash Landing on You",
         "type": "k-drama",
         "genre": "Romance / Comedy / Drama",
@@ -225,7 +270,7 @@
         "review": "A South Korean heiress crash-lands in North Korea and meets an army officer. Iconic love story, lots of feels!"
     },
     {
-        "id": 26,
+        "id": 31,
         "title": "Vincenzo",
         "type": "k-drama",
         "genre": "Action / Crime / Comedy",
@@ -234,7 +279,7 @@
         "review": "A Mafia consigliere returns to Korea. Dark comedy with thrilling moments and a badass anti-hero."
     },
     {
-        "id": 27,
+        "id": 32,
         "title": "All of Us are Dead",
         "type": "k-drama",
         "genre": "Zombie / Horror / Thriller",
