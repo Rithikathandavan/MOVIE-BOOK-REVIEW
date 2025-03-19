@@ -84,13 +84,76 @@
           "id": 10,
           "title": "Twisted Lies",
           "type": "series",
-          "genre": "Billionaire Romance / Fake dating",
+          "genre": "Billionaire Romance",
           "year": 2022,
           "image": "https://i.pinimg.com/736x/63/d4/b3/63d4b39b32a789d335f98fb46cafa55c.jpg",
           "review": "High schooler Pip investigates a closed murder case for her school project. Everyone believes Sal Singh killed Andie Bell, but Pip isn’t convinced. As she digs deeper, she uncovers dark secrets and puts herself in danger."
       },
-    {
+      {
         "id": 11,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "type": "series",
+        "genre": "Found Family, Magic School",
+        "year": 1997,
+        "image": "img/img01.jpg",
+        "review": "The magical world opens up! Harry discovers he’s a wizard and enters Hogwarts. Light-hearted and whimsical, with themes of friendship and bravery."
+    },
+    {
+      "id": 12,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "type": "series",
+      "genre": "Mystery, Hidden Powers",
+      "year": 1998,
+      "image": "img/img02.jpg",
+      "review": "A darker mystery unfolds at Hogwarts. Harry faces danger in the Chamber and uncovers secrets of the past."
+    },
+    {
+        "id": 13,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "type": "series",
+        "genre": "Time Travel, Identity Secrets",
+        "year": 1999,
+        "image": "img/img03.jpg",
+        "review": "Sirius Black escapes Azkaban. Harry learns about his parents' past and finds new family ties. Twists and emotional depth grow here."
+    },
+    {
+        "id": 114,
+        "title": "Harry Potter and the Goblet of Fire",
+        "type": "series",
+        "genre": "Tournament, Coming-of-Age",
+        "year": 2000,
+        "image": "img/img04.jpg",
+        "review": "The Triwizard Tournament tests Harry’s courage. Voldemort returns in a chilling climax. Stakes get higher!"
+    },
+    {
+        "id": 15,
+        "title": "Harry Potter and the Order of the Phoenix",
+        "type": "series",
+        "genre": "Rebellion, Found Family",
+        "year": 2003,
+        "image": "img/img05.jpg",
+        "review": "Dark times ahead. Harry builds Dumbledore’s Army and faces government corruption. A story of resistance and personal loss."
+    },
+    {
+      "id": 16,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "type": "series",
+      "genre": "Dark Secrets, Betrayal",
+      "year": 2005,
+      "image": "img/img06.jpg",
+      "review": "Dark secrets of Voldemort are revealed. Trust is tested, and a major betrayal changes everything. Heartbreaking and suspenseful."
+    },
+    {
+        "id": 17,
+        "title": "Harry Potter and the Deathly Hallows",
+        "type": "series",
+        "genre": "War, Sacrifice",
+        "year": 2007,
+        "image": "img/img07.jpg",
+        "review": "The final battle. Harry, Ron, and Hermione go on a perilous quest. Themes of sacrifice, love, and courage lead to an epic conclusion."
+    },
+    {
+        "id": 18,
         "title": "La La Land",
         "type": "movie",
         "genre": "Musical / Romance / Drama",
@@ -99,7 +162,7 @@
         "review": "A modern musical about love, dreams, and sacrifice. Gorgeous cinematography and music."
     },
     {
-        "id": 12,
+        "id": 19,
         "title": "A Quiet Place",
         "type": "movie",
         "genre": "Horror / Thriller",
@@ -108,7 +171,7 @@
         "review": "A tense, emotional survival horror with minimal dialogue and maximum suspense."
     },
     {
-        "id": 13,
+        "id": 20,
         "title": "Parasite",
         "type": "movie",
         "genre": "Fantasy, Fiction",
@@ -117,7 +180,7 @@
         "review": "A gripping story that keeps you hooked till the end."
     },
     {
-        "id": 14,
+        "id": 21,
         "title": "Barbie",
         "type": "movie",
         "genre": "Fantasy / Comedy / Drama",
@@ -126,7 +189,7 @@
         "review": "A mind-bending thriller about dreams within dreams. Complex and visually stunning."
     },
     {
-        "id": 15,
+        "id": 22,
         "title": "Inception",
         "type": "movie",
         "genre": "Sci-Fi / Thriller",
@@ -135,7 +198,7 @@
         "review": "A gripping story that keeps you hooked till the end."
     },
     {
-        "id": 16,
+        "id": 23,
         "title": "Twenty-Five Twenty-One",
         "type": "k-drama",
         "genre": "Romance / Drama",
@@ -144,7 +207,7 @@
         "review": "Nostalgic 90s vibe, first love, and dreams. Beautiful but bittersweet story—grab tissues!"
     },
     {
-        "id": 17,
+        "id": 24,
         "title": "Sweet Home",
         "type": "k-drama",
         "genre": "Horror / Thriller / Fantasy",
@@ -153,7 +216,7 @@
         "review": "A dark, gripping survival thriller with monsters and psychological drama. Creepy but compelling!"
     },
     {
-        "id": 18,
+        "id": 25,
         "title": "Crash Landing on You",
         "type": "k-drama",
         "genre": "Romance / Comedy / Drama",
@@ -162,7 +225,7 @@
         "review": "A South Korean heiress crash-lands in North Korea and meets an army officer. Iconic love story, lots of feels!"
     },
     {
-        "id": 19,
+        "id": 26,
         "title": "Vincenzo",
         "type": "k-drama",
         "genre": "Action / Crime / Comedy",
@@ -171,7 +234,7 @@
         "review": "A Mafia consigliere returns to Korea. Dark comedy with thrilling moments and a badass anti-hero."
     },
     {
-        "id": 20,
+        "id": 27,
         "title": "All of Us are Dead",
         "type": "k-drama",
         "genre": "Zombie / Horror / Thriller",
