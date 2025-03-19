@@ -2,9 +2,9 @@
     {
       "id": 1,
       "title": "It Ends with Us",
-      "type": "Book",
+      "type": "book",
       "genre": "Romance / Drama",
-      "year": "2016",
+      "year": 2016,
       "image": "https://i.pinimg.com/736x/e1/20/8d/e1208d68fe9f9bee4c7936a242dcc9bd.jpg",
       "review": "A raw and emotional story tackling love, trauma, and resilience. Very impactful, especially for young adults."
     },
@@ -46,6 +46,51 @@
     },
     {
         "id": 6,
+        "title": "Reminders of Him",
+        "type": "book",
+        "genre": "Romance / Drama",
+        "year": "2022",
+        "image": "https://i.pinimg.com/736x/95/e4/53/95e453c934b2d841701c6d7b875667ea.jpg",
+        "review": "A mother fighting to reunite with her daughter. Heartbreaking but with a hopeful ending. Classic CoHo feels!"
+      },
+      {
+          "id": 7,
+          "title": "Twisted Love",
+          "type": "book",
+          "genre": "Grumpy x Sunshine",
+          "year": 2021,
+          "image": "https://i.pinimg.com/736x/43/a1/3b/43a13b9e078141f06d7c305d415a313e.jpg",
+          "review": "Alex Volkov is ruthless and icy. Ava Chen is sunshine. It’s an opposites attract and forbidden romance with lots of angst and spice!"
+      },
+      {
+        "id": 8,
+        "title": "Twisted Games",
+        "type": "book",
+        "genre": "Forbidden Love",
+        "year": 2021,
+        "image": "https://i.pinimg.com/736x/ba/a5/e9/baa5e9793873839cfbbf10b5130d335b.jpg",
+        "review": "Rhys Larsen is the ultimate protective alpha bodyguard. Bridget von Ascheberg is a princess. Major slow burn, forbidden, and super steamy! Fans LOVE Rhys!"
+      },
+      {
+          "id": 9,
+          "title": "Twisted Hate",
+          "type": "book",
+          "genre": "Enemies-to-Lovers",
+          "year": 2022,
+          "image": "https://i.pinimg.com/736x/f9/28/a5/f928a53759d568872ace6408983cf370.jpg",
+          "review": "Christian Harper is a morally grey billionaire who’s obsessed (in a good way!) with Stella Alonso. Protective, obsessive hero + slow burn fake dating. Fans say this is the darkest and steamiest of the four!"
+      },
+      {
+          "id": 10,
+          "title": "Twisted Lies",
+          "type": "book",
+          "genre": "Billionaire Romance / Fake dating",
+          "year": 2022,
+          "image": "https://i.pinimg.com/736x/63/d4/b3/63d4b39b32a789d335f98fb46cafa55c.jpg",
+          "review": "High schooler Pip investigates a closed murder case for her school project. Everyone believes Sal Singh killed Andie Bell, but Pip isn’t convinced. As she digs deeper, she uncovers dark secrets and puts herself in danger."
+      },
+    {
+        "id": 11,
         "title": "La La Land",
         "type": "movie",
         "genre": "Musical / Romance / Drama",
@@ -54,7 +99,7 @@
         "review": "A modern musical about love, dreams, and sacrifice. Gorgeous cinematography and music."
     },
     {
-        "id": 7,
+        "id": 12,
         "title": "A Quiet Place",
         "type": "movie",
         "genre": "Horror / Thriller",
@@ -63,7 +108,7 @@
         "review": "A tense, emotional survival horror with minimal dialogue and maximum suspense."
     },
     {
-        "id": 8,
+        "id": 13,
         "title": "Parasite",
         "type": "movie",
         "genre": "Fantasy, Fiction",
@@ -72,7 +117,7 @@
         "review": "A gripping story that keeps you hooked till the end."
     },
     {
-        "id": 9,
+        "id": 14,
         "title": "Barbie",
         "type": "movie",
         "genre": "Fantasy / Comedy / Drama",
@@ -81,7 +126,7 @@
         "review": "A mind-bending thriller about dreams within dreams. Complex and visually stunning."
     },
     {
-        "id": 10,
+        "id": 15,
         "title": "Inception",
         "type": "movie",
         "genre": "Sci-Fi / Thriller",
@@ -90,45 +135,45 @@
         "review": "A gripping story that keeps you hooked till the end."
     },
     {
-        "id": 6,
+        "id": 16,
         "title": "Twenty-Five Twenty-One",
-        "type": "K-Drama",
+        "type": "k-drama",
         "genre": "Romance / Drama",
         "year": 2022,
         "image": "https://i.pinimg.com/736x/17/ba/97/17ba97064fed20236152851e88c30e40.jpg",
         "review": "Nostalgic 90s vibe, first love, and dreams. Beautiful but bittersweet story—grab tissues!"
     },
     {
-        "id": 7,
+        "id": 17,
         "title": "Sweet Home",
-        "type": "K-Drama",
+        "type": "k-drama",
         "genre": "Horror / Thriller / Fantasy",
         "year": 2020,
         "image": "https://i.pinimg.com/736x/72/ce/5a/72ce5a0bc47d4bbdf9fb77f1c391af44.jpg",
         "review": "A dark, gripping survival thriller with monsters and psychological drama. Creepy but compelling!"
     },
     {
-        "id": 8,
+        "id": 18,
         "title": "Crash Landing on You",
-        "type": "movie",
+        "type": "k-drama",
         "genre": "Romance / Comedy / Drama",
         "year": 2019,
         "image": "https://i.pinimg.com/736x/b4/1f/5f/b41f5f061dd907f9122d3827f49ae467.jpg",
         "review": "A South Korean heiress crash-lands in North Korea and meets an army officer. Iconic love story, lots of feels!"
     },
     {
-        "id": 9,
+        "id": 19,
         "title": "Vincenzo",
-        "type": "movie",
+        "type": "k-drama",
         "genre": "Action / Crime / Comedy",
         "year": 2021,
         "image": "https://i.pinimg.com/736x/21/0c/0e/210c0e69730c1b1f0c1a883299bf441c.jpg",
         "review": "A Mafia consigliere returns to Korea. Dark comedy with thrilling moments and a badass anti-hero."
     },
     {
-        "id": 6,
+        "id": 20,
         "title": "All of Us are Dead",
-        "type": "movie",
+        "type": "k-drama",
         "genre": "Zombie / Horror / Thriller",
         "year": 2022,
         "image": "https://i.pinimg.com/736x/f5/ac/04/f5ac04df8f9a5d3386a4e1138ca5f314.jpg",

@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #9b9b7a;
+  color: #6e4230;
 }
 
 /* Search & Filter Controls */
@@ -131,7 +131,7 @@ nav a:hover {
   padding: 1rem;
   background-color: #411d13;
   border-radius: 20px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 20px 20px #6e4230;
 }
 
 .review-item {
